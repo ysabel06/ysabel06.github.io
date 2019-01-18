@@ -1,0 +1,66 @@
+.colonneGauche{
+
+	background: pink;
+	height: 210%;
+	width: 17%;
+	position: fixed;
+	
+    text-align: center;
+    padding-top: 100px;
+
+}
+img{width:18%;}
+
+.isa{
+
+	color: white;
+
+}
+a{
+
+}
+.colonnedroite{
+	margin-left: 17%;
+    text-align: left;
+    color: grey;
+	padding-left: 10px;
+
+
+}
+.h{
+
+	padding-top: 150px;
+
+	text-align: center;
+}
+
+
+.position{
+
+
+width: auto;
+background-color: pink: ;
+
+
+
+}
+hr{
+	width: 20%;
+}
+p{
+	color: white;
+}
+p{
+	padding-right: 50px;
+	padding-top :40px;
+}
+
+
+
+
+
+#image {
+
+border-radius: 80px;
+
+}
